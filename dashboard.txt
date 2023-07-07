@@ -1,1 +1,2 @@
 Dashboard page code 
+added few lines of code to the dashboard page
